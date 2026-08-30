@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-<img width="2880" height="1620" alt="DAEMON Tools Pro interface" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/7z.png/240px-7z.png" />
+<img width="2880" height="1620" alt="DAEMON Tools Pro interface" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Adobe_Illustrator_screenshot.png/1280px-Adobe_Illustrator_screenshot.png" />
 </div>
 
 ---
